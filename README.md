@@ -6,6 +6,7 @@
 - Day 03 Ridge Regression (2020.12.29)
 - Day 04 Lasso Regression, Elasticnet Regression (2021.01.07)
 - Day 05 LightGBM (2021.01.14)
+- Day 06  Deep Learning (2021.02.10)
 
 ## 2. 스터디 자료
 [Matthew0633 자료들 둘러보기](https://matthew0633.tistory.com/)
